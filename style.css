@@ -15,7 +15,7 @@ body{
     color: rgb(255, 132, 0);
 }
 .name{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 25px;
     color:rgb(255, 132, 0);
     font-weight: 80;
